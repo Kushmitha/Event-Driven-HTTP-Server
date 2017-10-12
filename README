@@ -1,0 +1,1 @@
+Event driven HTTP server that supports HTTP/1.0 and HTTP/1.1 clients. Supports 100,000 requests with 1000 concurrent requests on apache bench. Supply the port to listen for connections on and root directory for the static web pages as command line arguments to the main().
